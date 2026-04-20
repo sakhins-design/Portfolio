@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sakhins-design/Portfolio.git/static/css/main.455ad0cc.css",
+    "main.js": "/sakhins-design/Portfolio.git/static/js/main.2319ff05.js",
+    "static/js/453.635f5f07.chunk.js": "/sakhins-design/Portfolio.git/static/js/453.635f5f07.chunk.js",
+    "static/media/Nayana.png": "/sakhins-design/Portfolio.git/static/media/Nayana.c631739be2ea9b683131.png",
+    "index.html": "/sakhins-design/Portfolio.git/index.html",
+    "main.455ad0cc.css.map": "/sakhins-design/Portfolio.git/static/css/main.455ad0cc.css.map",
+    "main.2319ff05.js.map": "/sakhins-design/Portfolio.git/static/js/main.2319ff05.js.map",
+    "453.635f5f07.chunk.js.map": "/sakhins-design/Portfolio.git/static/js/453.635f5f07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.455ad0cc.css",
+    "static/js/main.2319ff05.js"
+  ]
+}
