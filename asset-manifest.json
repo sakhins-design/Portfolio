@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sakhins-design/Portfolio/static/css/main.455ad0cc.css",
-    "main.js": "/sakhins-design/Portfolio/static/js/main.fc9ac91b.js",
-    "static/js/453.635f5f07.chunk.js": "/sakhins-design/Portfolio/static/js/453.635f5f07.chunk.js",
-    "static/media/Nayana.png": "/sakhins-design/Portfolio/static/media/Nayana.c631739be2ea9b683131.png",
-    "index.html": "/sakhins-design/Portfolio/index.html",
-    "main.455ad0cc.css.map": "/sakhins-design/Portfolio/static/css/main.455ad0cc.css.map",
-    "main.fc9ac91b.js.map": "/sakhins-design/Portfolio/static/js/main.fc9ac91b.js.map",
-    "453.635f5f07.chunk.js.map": "/sakhins-design/Portfolio/static/js/453.635f5f07.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.455ad0cc.css",
+    "main.js": "/Portfolio/static/js/main.e6d7c819.js",
+    "static/js/453.635f5f07.chunk.js": "/Portfolio/static/js/453.635f5f07.chunk.js",
+    "static/media/Nayana.png": "/Portfolio/static/media/Nayana.c631739be2ea9b683131.png",
+    "index.html": "/Portfolio/index.html",
+    "main.455ad0cc.css.map": "/Portfolio/static/css/main.455ad0cc.css.map",
+    "main.e6d7c819.js.map": "/Portfolio/static/js/main.e6d7c819.js.map",
+    "453.635f5f07.chunk.js.map": "/Portfolio/static/js/453.635f5f07.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.455ad0cc.css",
-    "static/js/main.fc9ac91b.js"
+    "static/js/main.e6d7c819.js"
   ]
 }
